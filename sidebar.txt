@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mfa:home|Door43 (mfa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mfa|d43-mfa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mfa/archive/master.zip|d43-mfa.zip]]
+
+**Recent Changes**
+{{changes>ns = mfa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mfa|Ethnologue data]]
+
